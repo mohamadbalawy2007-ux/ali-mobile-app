@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         child: Container(
           margin: EdgeInsets.only(top: 80),
-          width: 350,
+          width: 310,
           child: Column(
             children: [
               Image.asset("assets/Logos/ali_mobile_logo.jpg"),
@@ -168,7 +168,7 @@ class ContactPage extends StatelessWidget {
       body: Center(
         child: Container(
           margin: EdgeInsets.only(top: 10),
-          width: 350,
+          width: 310,
           child: Column(
             children: [
               Image.asset("assets/Logos/ali_mobile_logo.jpg"),
