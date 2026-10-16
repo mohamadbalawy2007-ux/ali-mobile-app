@@ -117,7 +117,7 @@ class MyHomePage extends StatelessWidget {
               ),
 
               Text(
-                "\n\n\n\n\n\n\n\nMade By Mohammad Ali",
+                "\n\n\n\nMade By Mohammad Ali",
                 style: TextStyle(color: Colors.grey),
               ),
             ],
@@ -271,7 +271,7 @@ class ContactPage extends StatelessWidget {
               ),
 
               Text(
-                "\n\n\n\n\n\nMade By Mohammad Ali",
+                "\n\n\n\nMade By Mohammad Ali",
                 style: TextStyle(color: Colors.grey),
               ),
             ],
